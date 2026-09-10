@@ -1,5 +1,5 @@
 
-# JIN.css
+# Jin.CSS
 
 JIN.css is a lightweight utility-first CSS framework built with SCSS. It provides ready-to-use utility classes and simple component styles for layout, spacing, typography, colors, borders, shadows, transitions, and animations.
 
